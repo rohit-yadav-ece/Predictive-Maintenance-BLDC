@@ -1,0 +1,31 @@
+{
+  "accuracy": 99.85,
+  "precision": 99.85,
+  "recall": 99.85,
+  "f1_score": 99.85,
+  "epochs_trained": 21,
+  "test_samples": 675,
+  "confusion_matrix": [
+    [
+      225,
+      0,
+      0
+    ],
+    [
+      1,
+      224,
+      0
+    ],
+    [
+      0,
+      0,
+      225
+    ]
+  ],
+  "labels": [
+    "Healthy",
+    "Degrading",
+    "Critical"
+  ],
+  "model_parameters": 5283
+}

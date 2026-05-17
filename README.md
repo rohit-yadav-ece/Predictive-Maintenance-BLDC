@@ -1,7 +1,12 @@
 # 🔧 Predictive Maintenance for BLDC Motors
 
 > **A complete end-to-end predictive maintenance pipeline — multi-sensor time-series acquisition, feature engineering, neural network classification, and ESP32 edge deployment — achieving 99.85% accuracy on motor health classification.**
+---
+### 🚀 [Live Demo ↗](https://predictive-maintenance-bldc-azwhf5omrkiwbhbvrc7auk.streamlit.app/)
 
+Try the live interactive dashboard — generate motor readings and watch the model classify health states in real-time!
+
+---
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-red.svg)](https://streamlit.io/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)](https://scikit-learn.org/)
